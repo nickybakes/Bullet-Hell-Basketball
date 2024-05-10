@@ -1,5 +1,5 @@
 # Bullet-Hell-Basketball
-A team based multiplayer sports game build in Unity and C#. I designed and developed the core gameplay loop and did all the art. Shipped in May 2022
+A team based multiplayer sports game built in Unity and C#. I designed and developed the core gameplay loop and did all the art. Shipped in May 2022
 
 - Bullet Hell Basketball is designed to be easy to pick up by anybody and lead to fierce competition quickly
 - The controls are very simple: standard left and right movement, jump, and an "action button". The simple controls allow you to play with 2 people on 1 keyboard, so a quick 1v1 can break out at any moment

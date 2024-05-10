@@ -9,6 +9,7 @@ A team based multiplayer sports game build in Unity and C#. I designed and devel
 - Players always face the ball, or face the opponents basket if they have the ball. Simply touching a loose ball will pick it up automatically
 - Powerups randomly spawn and can create wild and chaotic moments. Bullets always shoot out from each team's side of the screen, and the losing team will have more bullets firing depending on the difference in score
 
+I designed and developed the game's rules/logic, player movement, ball and powerup interactions, computer controlled bots, animation systems, and scalable multiplayer logic. My original pitch for the game was just 1v1, but we expanded our systems to allow up to 8 players because we thought that would add to the fun. My goal was to create immediate, fierce chaos and competition. Based on my experience playing with others and watching others play, I believe we achieved that. I also created all the art in the game, created shaders, and wrote the voice lines for the announcer (voiced by Kieran Newell).
 
 Bullet Hell Basketball was created in 3 months by Nick Baker, Brian Kiss, Zach Selsley, and Tom Leonard and shipped in May 2022.
 
